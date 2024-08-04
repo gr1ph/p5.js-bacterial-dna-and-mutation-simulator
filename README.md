@@ -21,4 +21,5 @@
 ### Unreleased features that may be coming: Removing predators (or heavily changing them), more complex mutation, python versions, script to view the DNA.
 
 ### Screenshot from v5
-![image](https://github.com/user-attachments/assets/955fd0d1-555f-4350-91e7-31a3f835d699)
+![image](https://github.com/user-attachments/assets/62498783-9e81-457d-9f2e-88b3aece07e9)
+
