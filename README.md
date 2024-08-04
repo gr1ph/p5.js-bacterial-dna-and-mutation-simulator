@@ -18,26 +18,7 @@
 - v4 (IMPORTED) 8/4/2024: added food
 - v5 (IMPORTED) 8/4/2024: added predators
 
+### Unreleased features that may be coming: Removing predators (or heavily changing them), more complex mutation, python versions, script to view the DNA.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Screenshot from v2
+### Screenshot from v5
 ![image](https://github.com/user-attachments/assets/955fd0d1-555f-4350-91e7-31a3f835d699)
