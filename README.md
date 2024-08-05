@@ -3,7 +3,7 @@
 | Version | Stability | Builded in | Directory |
 |---------|-----------|---------|-----------|
 | ![v1.0.0](https://img.shields.io/badge/version-1.0.0-blue) | ![Stable](https://img.shields.io/badge/stability-stable-brightgreen) | ![p5.js editor](https://img.shields.io/badge/editor-p5.js-pink) | v1 |
-| ![v1.0.0](https://img.shields.io/badge/version-1.0.0-blue) | ![Stable](https://img.shields.io/badge/stability-stable-brightgreen) | ![VSCode editor](https://img.shields.io/badge/editor-VSCode-lightblue) | v1 python |
+| ![v1.0.0](https://img.shields.io/badge/version-1.0.1-blue) | ![Stable](https://img.shields.io/badge/stability-stable-brightgreen) | ![VSCode editor](https://img.shields.io/badge/editor-VSCode-lightblue) | v1 python |
 | ![v2.0.0](https://img.shields.io/badge/version-2.0.0-blue) | ![Failing](https://img.shields.io/badge/stability-failing-red) | ![p5.js editor](https://img.shields.io/badge/editor-p5.js-pink) | v2 |
 | ![v3.0.0](https://img.shields.io/badge/version-3.0.0-blue) | ![Stable](https://img.shields.io/badge/stability-stable-brightgreen) | ![p5.js editor](https://img.shields.io/badge/editor-p5.js-pink) | v3 |
 | ![v4.0.0](https://img.shields.io/badge/version-4.0.0-blue) | ![Stable](https://img.shields.io/badge/stability-stable-brightgreen) | ![p5.js editor](https://img.shields.io/badge/editor-p5.js-pink) | v4 |
