@@ -19,6 +19,7 @@
 - v3 (IMPORTED) 8/4/2024: added more complexity to mutations
 - v4 (IMPORTED) 8/4/2024: added food
 - v5 (IMPORTED) 8/4/2024: added predators
+- v6 8/4/2024: added tick speed and ability to turn up simulation speed, improved algorithm for spacing and attraction
 
 ### Unreleased features that may be coming: Removing predators (or heavily changing them), more complex mutation, python versions, script to view the DNA.
 
